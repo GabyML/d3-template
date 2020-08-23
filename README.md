@@ -1,5 +1,11 @@
 # D3 Template
 
+N.B. From week 1 tutorials: For project to work locally with D3, start http server with python three with command below.
+
+```
+python3 -m http.server
+```
+
 A minimal template for jump starting D3 Vis projects.
 
 ## Getting Started
